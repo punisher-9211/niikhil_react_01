@@ -1,0 +1,11 @@
+.make-cont {
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: whitesmoke;
+}
+.make-image {
+  height: 100px;
+  margin: 20px;
+}

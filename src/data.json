@@ -1,0 +1,612 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "category": "SPECIALIZED WEIGHING SCALE",
+      "categoryContent": {
+        "id": "1",
+        "details": [
+          "Comi weigh / coin operated / oil vending / wireless system/ CONVEYOR SYSTEM  HOPPER TANK WEIGHING "
+        ],
+        "info": "We are highly established and reputed company engaged in designing, manufacturing, servicing of Specialized Weighing Scales, which are offered at very economical prices to the customers. Our range of Electronic Weighing Scale is used for all kinds of weighing applications (static weighing to dynamic weighing). This Specialized Weighing Scale works in almost in any environment. It can be used where normal weighing scales cannot perform and is available in various capacities. Our highly effective Specialized Weighing Scale successfully caters various Weighing needs of customers and available at cost-effective ",
+        "features": [
+          "Incorporates International quality OIML standard load cells.",
+          "Stainless steel weighing pan * Advance microcomputer based design.",
+          "Optional Battery backup * Overload & shock load protection.",
+          "100% Tare facility * No moving parts. * Multiple function : parts counting, accumulation of weights.",
+          "In memory, printing of weight data, selection of baud rate, Filling mode, variable integration time to suit    weighing atmosphereBidirectional RS232C interface.Audio visual overload indication.",
+          "Custom Built Hybrid Circuit for protection against moisture.",
+          "Unique ADC with temp. compensation for high resolution models."
+        ],
+        "custom1": {
+          "title": "Weighing Indicator “Weighbridge”",
+          "info": "The Weighing Indicator can be used for various Electronic Platform Scales, Truck Scales and Weighbridges System.",
+          "details": [
+            "Be capable of displaying millivolt signal, and easy to detect whether the sensor is in good",
+            "Condition or not filtering progression adjustment (Grade 1-4)",
+            "Unique stabilization control procedure",
+            "Automatic Switching in 3 Graduations",
+            "No re-scaling is needed during instrument changing",
+            "Tare Weight Storage for 512 car numbers",
+            "Storage and printing for 1521-group weighing records",
+            "Functions of enquiry, report and accumulative printing",
+            "20mA current loop and rs-232c serial communication interface",
+            "Baud Rate 1200/2400/4800/9600 (optional)",
+            "Anti-static electricity design was adopted for all interfaces to avoid damage",
+            "3-level timing power off",
+            "AC/DC, can be external connected with 6V battery"
+          ],
+          "technical": [
+            "Range of input signal:-18~+18mV ",
+            "A/D Conversion:24-bit Sigma-Delta A/D Conversion ",
+            "A/D Sampling Frequency:38.400 kHz ",
+            "Nonlinearity :< 0.0015% F.S. ",
+            "Gain Error Drift:0.5ppm/’C ",
+            "Minimum Resolution:0.1uV/d ",
+            "Supply Voltage: 5V/750mA (can connect 16 sensors) ",
+            "Operating Temperature:-10~+50'C ",
+            "Storage Temperature:-40~+85'C ",
+            "Relative Humidity:<90%R.H ",
+            "Power Supply:AC187~242V,49~51Hz or DC6V ",
+            "External Dimension:325×210×205 (mm)"
+          ]
+        },
+        "custom2": {
+          "title": "Crane Scale Hts Series",
+          "info": "no-info",
+          "details": ["no-info"],
+          "technical": [
+            "Max capacity:600 kg~35 ton",
+            "360° Freely swiveling hook; easy to operate ",
+            "Large and bright red LED with wide view angle",
+            "Change, hold, zero function ",
+            "Auto-zero tracking",
+            "Capacity 600kg~10t",
+            "Special design, quick to show exact weight ",
+            "Extra bright red LED, easy to read ",
+            "360° freely swiveling hook ",
+            "Battery life 150 hours ",
+            "Recharging time 10 hours",
+            "Rugged and compact design",
+            "Aluminum die-casting housing for maximum protecting",
+            "Waterproof and dustproof meet IP65 protection rating",
+            "Power saving mode selectable ",
+            "Easy to read 5 digits LED display",
+            "kg/lb conversion modes"
+          ]
+        },
+        "custom3": {
+          "title": "Price Computing Scale",
+          "info": "no-info",
+          "details": ["no-info"],
+          "technical": [
+            "3kg /0.5g ~ 30kg/5g ",
+            "6kg /2g ~ 30kg /10g",
+            "1/600,000 Internal resolution",
+            "1/3,000 Display resolution",
+            "15kg /5g , 30kg /10g",
+            "1/65,000 Internal resolution",
+            "1/3,000 Display resolution"
+          ]
+        },
+        "custom4": {
+          "title": "Semi Auto Packing Machine",
+          "info": "no-info",
+          "details": ["no-info"],
+          "technical": [
+            "Models for quantifying powder or specific materials can be custom-made",
+            "Available to quantify for various grains, such as: snacks, beans, candies, refreshments, minor hardware, and tea leave, etc.",
+            "Quantifying accuracy: ±2g",
+            "89 cm (L). 51.5 cm (w). 153 cm (H). Weight about 86.3 kg.",
+            "Power AC 110V / 220 V¡A50 / 60 Hz¡A300 W"
+          ]
+        }
+      },
+      "desc": "",
+      "imageUrl": "./6.jpg"
+    },
+    {
+      "id": "2",
+      "category": "PRICE COMPUTING SCALES ",
+      "categoryContent": {
+        "id": "1",
+        "details": [
+          "Incorporates OIML standard load cells.",
+          "Optional Battery backup.",
+          "Overload and shock load protection.",
+          "100% Tare facility.",
+          "No moving parts.",
+          "Bright LED display.",
+          "Stainless steel weighing pan.",
+          "Tactile keyboard making it dust & moisture resistant for     long lasting and reliable operation.",
+          "Can store price of items with their names [ up to 60 nos. ].",
+          "Bill printing facility ( using an optional printer )",
+          "Calculator facility.",
+          "Facility to price addition for pre-packed items.",
+          "Facility to enter shop name & address.",
+          "Per kg or per 100g rate selection.",
+          "Facility to accumulate transaction data.",
+          "Computes total sales of all items along with their weights.",
+          "Date and Time entry facility.",
+          "Different displays for weight, unit price and total price.",
+          "Display on both sides"
+        ],
+        "features": [
+          "Incorporates International quality OIML standard load cells.",
+          "Stainless steel weighing pan * Advance microcomputer based design.",
+          "Optional Battery backup * Overload & shock load protection.",
+          "100% Tare facility * No moving parts. * Multiple function : parts counting, accumulation of weights.",
+          "In memory, printing of weight data, selection of baud rate, Filling mode, variable integration time to suit    weighing atmosphereBidirectional RS232C interface.Audio visual overload indication.",
+          "Custom Built Hybrid Circuit for protection against moisture.",
+          "Unique ADC with temp. compensation for high resolution models."
+        ],
+        "applications": [
+          "Grocery market",
+          "Tea & Coffee Shops",
+          "Chicken Shops",
+          "Food & bakery.",
+          "Sweets & dry fruits Shops",
+          "Super markets, etc."
+        ],
+        "technical": [
+          { "capacity": "2 Kg", "accuracy": "0.2 gm", "panSize": "244 x 300" },
+          { "capacity": "5 Kg", "accuracy": "0.5 gm", "panSize": "244 x 300" },
+          { "capacity": "10 Kg", "accuracy": "2 gm", "panSize": "244 x 300" },
+          { "capacity": "20 Kg", "accuracy": "2/5 gm", "panSize": "244 x 300" }
+        ]
+      },
+      "desc": "",
+      "imageUrl": "./1.jpeg"
+    },
+    {
+      "id": "3",
+      "category": "PIECE COUNTING SCALE  ",
+      "categoryContent": {
+        "id": "1",
+        "details": [
+          "Incorporates OIML standard load cells.",
+          "Optional Battery backup.",
+          "Overload and shock load protection.",
+          "100% Tare facility.",
+          "No moving parts.",
+          "Bright LED display.",
+          "Stainless steel weighing pan.",
+          "Tactile keyboard making it dust & moisture resistant for     long lasting and reliable operation.",
+          "Can store price of items with their names [ up to 60 nos. ].",
+          "Bill printing facility ( using an optional printer )",
+          "Calculator facility.",
+          "Facility to price addition for pre-packed items.",
+          "Facility to enter shop name & address.",
+          "Per kg or per 100g rate selection.",
+          "Facility to accumulate transaction data.",
+          "Computes total sales of all items along with their weights.",
+          "Date and Time entry facility.",
+          "Different displays for weight, unit price and total price.",
+          "Display on both sides"
+        ],
+        "features": [
+          "Tabletop , Bench & Platform models. Battery backup option.",
+          "Programmable unit weight or calculation of unit weight by averaging method.",
+          "Storage of unit weight for 99 items.",
+          "Display hold facility. Calculator facility.",
+          "Accumulation of count data.",
+          "Different displays for unit weight, total weight & no.of peices. \n 1. 24 bit sigma delta high precision analog to digital conversion with digital filters\n2. Soft ware linearity correction\n3. 16 Digit Red bright LED display.\n4. Printer attachment (optional)\n5. CAN STORE ITEM (0-99)\n6. Indications for A.C. On, Nett/Gross weight, zero, battery low.\n7. Computer / Printer interface (RS- 232 C).\n8. Real-Time Clock.\n9. EXTEND to 500 NOS. (OPTIONAL) WITH BARCODE PRINTING FACILITY\n SCANING, STORE, INTERFACE WITH (sap) also search by alpha-numeric 15 digit item code or by simply SR. No.iot base, cloud computing\n",
+          "Power requirements : 230v AC + 10% - 50Hz or 6v/4AH rechargeable battery Operating Temperature range 15oC to 50oC"
+        ],
+        "applications": [
+          "Automobile - Engineering, Hardware, Electronics",
+          "Plastic, Rubber, Electrical, Writing products, Pharmaceuticals, etc"
+        ],
+        "technical": [
+          { "capacity": "1 Kg", "accuracy": "0.1 gm", "panSize": "244 x 300" },
+          { "capacity": "2 Kg", "accuracy": "0.2 gm", "panSize": "244 x 300" },
+          { "capacity": "5 Kg", "accuracy": "0.5 gm", "panSize": "244 x 300" },
+          { "capacity": "10 Kg", "accuracy": "1 gm", "panSize": "244 x 300" },
+          { "capacity": "20 Kg", "accuracy": "2 gm", "panSize": "244 x 300" },
+          { "capacity": "30 Kg", "accuracy": "5 gm", "panSize": "244 x 300" }
+        ]
+      },
+      "desc": "",
+      "imageUrl": "./2.jpeg"
+    },
+    {
+      "id": "4",
+      "category": "BENCH SCALES",
+      "categoryContent": {
+        "id": "1",
+        "details": [
+          "Incorporates International quality OIML standard load cells.",
+          "Advanced microcomputer based design. ",
+          "Battery backup option.",
+          "Overload and shock load protection. ",
+          "100% subtractive tarring range.",
+          "Bright LED display. ",
+          "ZERO , TARE , NET/ GROSS function. ",
+          "Audio - visual overload indication. ",
+          "S.S. Platform"
+        ],
+        "features": [
+          "Standard bidirectional computer (RS-232) interface.",
+          "Multiple function : Parts counting.",
+          "Accumulation of weights in memory.",
+          "Printing of weight data.",
+          "Selection of baud rate.",
+          "Filling mode.",
+          "Variable integration time to suit weighing atmosphere.",
+          "Power requirements  :  230V AC + 10% - 50Hz / 6V, 4AH rechargeable battery.",
+          "Operating Temperature range  :  150C to 500C."
+        ],
+        "applications": [
+          "Oil trading  *  Aquaculture   *  Groceries. *  Fisheries",
+          "Industrial application especially for corrosive atmosphere, etc."
+        ],
+        "technical": [
+          {
+            "capacity": "30 Kg",
+            "accuracy": "5 gm",
+            "panSize": "300 x 400"
+          },
+          {
+            "capacity": "50 Kg",
+            "accuracy": "5 gm",
+            "panSize": "300 x 400"
+          },
+          {
+            "capacity": "60 Kg",
+            "accuracy": "5/10 gm",
+            "panSize": "300 x 400"
+          }
+        ]
+      },
+      "desc": "",
+      "imageUrl": "./3.jpeg"
+    },
+    {
+      "id": "5",
+      "category": "PLATFORM  SCALES",
+      "categoryContent": {
+        "id": "1",
+        "details": [
+          "Incorporates International quality standard load cells. ",
+          "Advanced microcomputer based design.",
+          "Battery backup option.",
+          "Overload and shock load protection.",
+          "100% subtractive tarring range.",
+          "Bright LED display.",
+          "ZERO, TARE, NET/ GROSS function.",
+          "Audio-visual overload indication.",
+          "S.S. Platform.",
+          "Plat form 1, plat form ,2 plat form3"
+        ],
+        "features": [
+          "Standard bidirectional computer ",
+          "( RS - 232) interface.",
+          "Multiple function : ",
+          "Parts counting, ",
+          "Accumulation of weights in memory, ",
+          "Printing of weight data, ",
+          "Selection of baud rate, ",
+          "Filling mode, ",
+          "Variable integration time to ",
+          "suit weighing atmosphere."
+        ],
+        "applications": [
+          "Industries  *  Warehouses   *  Transport Depots, etc."
+        ],
+        "checker": [
+          {
+            "capacity": "100kg. , 200kg. , 300kg.",
+            "accuracy": "10gm. ,20gm.,50gm.",
+            "panSize": "450x550mm."
+          },
+          {
+            "capacity": "100kg. , 200kg. , 300kg. 500kg.",
+            "accuracy": "10gm. ,20gm.,50gm.,50gm.",
+            "panSize": "600x600mm."
+          },
+          {
+            "capacity": "300kg.,500kg.,1000kg.",
+            "accuracy": "50gm., 50gm.,100gm.",
+            "panSize": "750x750mm."
+          },
+          {
+            "capacity": "1ton.,2ton.,",
+            "accuracy": "100gm. , 200gm.,",
+            "panSize": "900x900mm."
+          },
+          {
+            "capacity": "1ton.,2ton.,",
+            "accuracy": "100gm. , 200gm.,",
+            "panSize": "1000x1000mm."
+          },
+          {
+            "capacity": "1ton.,2ton.,",
+            "accuracy": "100gm. , 200gm.,",
+            "panSize": "1200x1200mm."
+          }
+        ],
+        "floorScale": [
+          {
+            "capacity": "1ton.,2ton,3ton,",
+            "accuracy": "100gm.,200gm.,500gm.",
+            "panSize": "1000x1000mm."
+          },
+          {
+            "capacity": "1ton.,2ton,3ton,",
+            "accuracy": "100gm.,200gm.,500gm.",
+            "panSize": "1200x1200mm."
+          },
+          {
+            "capacity": "2ton.,3ton.,5ton.",
+            "accuracy": "200gm.500gm.1kg.",
+            "panSize": "1500x1500mm."
+          },
+          {
+            "capacity": "Customized build ",
+            "accuracy": "As per Required capacity ",
+            "panSize": "1000x2000,1200x2000 ,2000x2000mm."
+          }
+        ],
+        "dualLoadCell": [
+          {
+            "capacity": "1ton.",
+            "accuracy": "100gm.",
+            "panSize": "1000x1500mm."
+          }
+        ],
+        "fourLoadCell": [
+          {
+            "capacity": "10mton",
+            "accuracy": "2/5kg.",
+            "panSize": "7x10feet."
+          }
+        ]
+      },
+      "desc": "",
+      "imageUrl": "./4.jpeg"
+    },
+    {
+      "id": "6",
+      "category": "CRANE SCALES",
+      "categoryContent": {
+        "id": "1",
+        "details": [
+          "International quality loadcells.",
+          "Swivelling type, rotatable upto 360 degrees.",
+          "Forged steel eyebolt to attach to a ",
+          "standard EOT Crane hook.",
+          "Easy to read bright LED display.",
+          "Zero & Tare controls.",
+          "Battery powdered.",
+          "Optional separate battery pack and charger."
+        ],
+        "features": [
+          "Maximum Tare      :  Full range",
+          "Display Type  :  LED, 25mm height",
+          "Operating power :  ",
+          "230V AC / 6V, 4AH  rechargeable battery.",
+          "Operating Temperature  :  150C to 450C"
+        ],
+        "applications": [
+          "*  All big and heavy Industries   *  Paper mills   *  Flour mills   *  Rice mills  * Cement",
+          "*  Ship yard *   Rolling Mills   *  Textiles   *  Container yard  *  Steel plant, etc."
+        ],
+        "technical": [
+          {
+            "capacity": "100K50",
+            "accuracy": "100kg",
+            "panSize": "50g"
+          },
+          {
+            "capacity": "300K100",
+            "accuracy": "300kg",
+            "panSize": "100g"
+          },
+          {
+            "capacity": "500K200",
+            "accuracy": "500kg",
+            "panSize": "200g"
+          },
+          {
+            "capacity": "1T500",
+            "accuracy": "1T",
+            "panSize": "500g"
+          },
+          {
+            "capacity": "2T1",
+            "accuracy": "2T",
+            "panSize": "1Kg"
+          },
+          {
+            "capacity": "3T1",
+            "accuracy": "3T",
+            "panSize": "1Kg"
+          },
+          {
+            "capacity": "5T2",
+            "accuracy": "5T",
+            "panSize": "2Kg"
+          },
+          {
+            "capacity": "7.5T2",
+            "accuracy": "7.5T",
+            "panSize": "2Kg"
+          },
+          {
+            "capacity": "10T5",
+            "accuracy": "10T",
+            "panSize": "5Kg"
+          },
+          {
+            "capacity": "15T5",
+            "accuracy": "15T",
+            "panSize": "5Kg"
+          },
+          {
+            "capacity": "20T10",
+            "accuracy": "20T",
+            "panSize": "10Kg"
+          }
+        ]
+      },
+      "desc": "",
+      "imageUrl": "./5.jpeg"
+    },
+    {
+      "id": "7",
+      "category": "WEIGHBRIDGE",
+      "categoryContent": {
+        "id": "1",
+        "features": [
+          "Heavy duty load cells for long life and reliable operation.",
+          "Rugged construction to withstand  hostile conditions.",
+          "Robust and sturdy platform.",
+          "Different  platform size depending on the capacity.",
+          "Incorporates latest microcomputer technology for fast and accurate weighing.",
+          "Bright and large LED display.",
+          "Eliminates levers and knife edges to avoid frequent maintenance.",
+          "Low civil cost.",
+          "Pitless or pit type.",
+          "Computerized model for effective truck management and report generation on the basis of date, vehicle number,supplier, material, etc., on a printer"
+        ],
+        "applications": [
+          " Sugar factory  *  Coal fields  *  Coal mines   *   Cement Plants",
+          "*  Chemical plants  *  Warehouses, etc."
+        ],
+        "technical": [
+          {
+            "capacity": "10 Ton to 100 Ton.  ",
+            "accuracy": "5 Kg to 20 Kg.",
+            "panSize": "6 meter X 3 meter to 18 metre X 3 meter"
+          }
+        ]
+      },
+      "desc": "",
+      "imageUrl": "./1.jpeg"
+    },
+    {
+      "id": "8",
+      "category": "MILK WEIGHING SYSTEMS ",
+      "categoryContent": {
+        "id": "1",
+        "features": [
+          "International quality load cells ",
+          "Overload protection for load cells  ",
+          "Platform scales for small milk collection centers and ",
+          "Bowl type scales for big Dairy farms  ",
+          "Programmable conversion  factor for kilograms to liter   ",
+          "Optional complete stainless steel construction   ",
+          "Optional battery backup   ",
+          "RS232 output for computer interface ",
+          "Rugged construction to withstand rough usage in Dairy Farms.",
+          "Power requirements :  230V AC + 10% - 50Hz / 6V, 4AH rechargeable battery.",
+          "Operating Temperature range  :  150C to 500C.",
+          "Platform scales for small milk ",
+          "collection centers and Bowl type ",
+          "scales for big Dairy Farms. ",
+          "Programmable conversion factor - for kilograms to litre.Bowl Type photo",
+          "Optional : complete stainless - steel construction. ",
+          "RS232 output for computer interface.",
+          "Rugged construction to withstand rough usage in Dairy Farms"
+        ],
+        "applications": ["*  Dairy Farms  *  Milk Collection Centres, etc."],
+        "technical": [
+          {
+            "capacity": "PAL60kg.",
+            "accuracy": "10gm.",
+            "panSize": "400x400mm."
+          },
+          {
+            "capacity": "PAL100kg.",
+            "accuracy": "50gm",
+            "panSize": "450x550mm"
+          },
+          {
+            "capacity": "PAL200kg",
+            "accuracy": "100gm",
+            "panSize": "600x600mm"
+          },
+          {
+            "capacity": "PAL300kg",
+            "accuracy": "100gm",
+            "panSize": "600x600mm"
+          },
+          {
+            "capacity": "PAL500kg",
+            "accuracy": "100gm",
+            "panSize": "600x600mm"
+          },
+          {
+            "capacity": "PAL300kg",
+            "accuracy": "100gm",
+            "panSize": "Bowl"
+          },
+          {
+            "capacity": "PAL500kg",
+            "accuracy": "100gm",
+            "panSize": "Bowl"
+          }
+        ]
+      },
+      "desc": "",
+      "imageUrl": "./2.jpeg"
+    },
+    {
+      "id": "9",
+      "category": "Lab/jewellery BALANCE ",
+      "categoryContent": {
+        "id": "1",
+        "features": [
+          "Based On Load cell & EMFC base Technology.",
+          "State of the art microcomputer based design.",
+          "Sharp, Clear LED Display and",
+          "LED DISPLAY.",
+          "Standard bi-directional RS232C interface.",
+          "Easy operation with feather touch membrane keys.",
+          "Port for external display.",
+          "Stainless steel weighing pan.",
+          "Automatic zero tracking.",
+          "Multiple weighing Units : Grams & Carat.",
+          "Poly function: counting parts + weighing, percentage ",
+          "weighing GSM reading [g/m2]",
+          "Fill mode, accumulation of weights in memory."
+        ],
+        "applications": ["Jewellery diamonds R&D QC Labs Institutes, etc."],
+        "technical": [
+          {
+            "capacity": "120gm.",
+            "accuracy": "0.01gm.",
+            "panSize": "100mm."
+          },
+          {
+            "capacity": "200gm.",
+            "accuracy": "0.01gm.",
+            "panSize": "100mm."
+          },
+          {
+            "capacity": "300gm.",
+            "accuracy": "0.01gm.",
+            "panSize": "100mm."
+          },
+          {
+            "capacity": "500gm.",
+            "accuracy": "0.01gm.",
+            "panSize": "100mm."
+          },
+          {
+            "capacity": "600gm",
+            "accuracy": "0.01gm.",
+            "panSize": "100mm."
+          },
+          {
+            "capacity": "1Kg",
+            "accuracy": "0.1gm",
+            "panSize": "100mm."
+          }
+        ]
+      },
+      "desc": "",
+      "imageUrl": "./6.jpg"
+    }
+  ]
+}
